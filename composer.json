@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-a-p-i",
+    "description": "Description of project phpAPI.",
+    "authors": [
+        {
+            "name": "agarmen",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "bitworking/mimeparse": "2.2.0"
+    }
+}
