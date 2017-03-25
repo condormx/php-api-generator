@@ -31,3 +31,4 @@
     //Return response
     echo "type: " . $request->getMethod() . "\n";
     echo "function: " . print_r($request->getFunction(),true) . "\n";
+    echo "parameters: " . print_r($request->getFunction(),true) . "\n";
